@@ -5,9 +5,10 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title: "Hello"
+title: "Hello, here's Jingjing Liang's personal website"
 description: >
-  I am Jingjing Liang, you can also call me Marie XD
+  I am Jingjing Liang, 
+  you can also call me Marie!
 baseurl: ""  # ← Set this to empty since your repo is named xenotopia.github.io
 repository: "xenotopia/xenotopia.github.io"
 open_new_tab: false
@@ -36,7 +37,7 @@ author:
   email: "marieliang796@gmail.com"
   github: "marieliang796/xenotopia"
   instagram: "marieliang2_"
-  linkedin: "your_username"
+  linkedin: "Marie (Jingjing) Liang"
 
 ### Posts ###
 permalink: /blog/:title
