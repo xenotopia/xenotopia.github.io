@@ -5,14 +5,12 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : Hello 
-description         : >
-                      I am Jingjing Liang, you can also call me Marie XD 
-baseurl             : xenotopia.github.io   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
-#                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
-repository          : xenotopia                     # Change to <your-username> for github OR, if that doesn't work <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
-open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
-
+title: "Hello"
+description: >
+  I am Jingjing Liang, you can also call me Marie XD
+baseurl: ""  # ← Set this to empty since your repo is named xenotopia.github.io
+repository: "xenotopia/xenotopia.github.io"
+open_new_tab: false
 
 ### Plugins ###
 plugins:
@@ -25,72 +23,49 @@ plugins:
 port: 4008
 
 ### Navbar Settings ###
-nav_exclude:                                            # The following paths are excluded from navbar
+nav_exclude:
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
-
+  - documentation/partials/**
 
 ### Author Info ###
 author:
-  name              : Jingjing Liang
-  image             : https://media.tenor.com/8RcIoWTKYR4AAAAe/scuze-corgi.png
-#  behance           : your_username
-# dribbble          : your_username
-  email             : marieliang796@gmail.com
-#  facebook          : your_username
-  github            : marieliang796/xenotopia 
-# gitlab            : your_username
- instagram         : marieliang2_
-# kaggle            : your_username
-  linkedin          : your_username
-#  medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-#  twitch            : your_username
-#  twitter           : your_username
-#  vimeo             : your_username
-#  youtube           : your_channel_name
-# keybase           : your_username
-
+  name: "Jingjing Liang"
+  image: "https://media.tenor.com/8RcIoWTKYR4AAAAe/scuze-corgi.png"
+  email: "marieliang796@gmail.com"
+  github: "marieliang796/xenotopia"
+  instagram: "marieliang2_"
+  linkedin: "your_username"
 
 ### Posts ###
 permalink: /blog/:title
-
 
 ### Collections ###
 collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
-
+  elements:
+    output: true
 
 ### Disqus ###
 disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
-
+  shortname: your-short-name-disqus
 
 ### Analytics ###
 analytics:
-  enabled: false                                        # Set true to enable analytics
+  enabled: false
   google:
     tracking_id: your-google-tracking-id
 
-
 ### Buy me a coffee ###
-# See https://www.buymeacoffee.com/
 buymeacoffee:
   enabled: false
   username: your_username
   color: "#007bff"
-  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+  message: "Thank you for visiting."
   description: "Support me on Buy me a coffee!"
-
 
 ### Defaults for collections ###
 defaults:
@@ -99,20 +74,18 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
+  - scope:
+      path: ""
+      type: "elements"
+    values:
+      layout: "element"
   - scope:
       path: ""
       type: "posts"
     values:
-      comments: false                                   # Set to true to enable disqus comments
-
+      comments: false
 
 ### Exclude from processing ###
-## Add yours here if you have other stuff in your github.io page!!!**
 exclude:
   - README.md
   - README.md~
