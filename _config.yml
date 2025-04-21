@@ -6,11 +6,11 @@
 
 ### Site Settings ###
 title               : Hello 
-description         : >-
+description         : >
                       I am Jingjing Liang, you can also call me Marie XD 
-baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
+baseurl             : xenotopia.github.io   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
-repository          :                     # Change to <your-username> for github OR, if that doesn't work <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
+repository          : xenotopia                     # Change to <your-username> for github OR, if that doesn't work <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
