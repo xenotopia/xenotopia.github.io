@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.Jingjing.Liang }}**,<br>
+Hi My name is **{{ site.author.name }}**,<br>
 I'm a graduate student at the University of Illinois, Urbana-Champaign. I completed my undergraduate degree in Shanghai Normal University, majoring in Archival Science.
 
 <div class="row">
