@@ -1,10 +1,13 @@
----
-title: Homework 6
-permalink: /homework6/
-layout: page  # or use 'project' if your theme supports a custom layout
+title: IS 445 Homework 6
+image: /DSC03931.JPG
+description: Visualization and analysis done for Homework 6 using Vega-Lite.
+tags:
+  - Python
+  - Vega-Lite
+  - Data Analysis
 ---
 
-
+This is an interactive visualization project using Vega-Lite.
 
 ### 🔗 Related Links
 - [My Notebook on GitHub](https://github.com/xenotopia/some-repo/blob/main/homework6.ipynb)
