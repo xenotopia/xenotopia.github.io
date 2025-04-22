@@ -1,11 +1,18 @@
 ---
-title: Photography
+title: Photography by Place
 permalink: /blog/
 layout: page
 ---
 
-<h1>📸 My Photography</h1>
-<p>A collection of moments I've captured.</p>
+<h1>📍 My Travel Photography</h1>
+<p>Select a place to view photos taken there.</p>
+
+<select id="placeFilter" onchange="filterPhotos()">
+  <option value="all">All</option>
+  <option value="beijing">Beijing</option>
+  <option value="sandiego">San Diego</option>
+  <option value="shanghai">Shanghai</option>
+</select>
 
 <style>
 .photo-grid {
@@ -22,9 +29,24 @@ layout: page
 }
 </style>
 
-<div class="photo-grid">
-  <img src="/image/IMG_2037.jpeg" alt="Cute dog" />
-  <img src="/assets/img/profile.jpg" alt="Portrait" />
-  <img src="/image/your-second-photo.jpg" alt="Example shot" />
-  <!-- Add more images here -->
+<div class="photo-grid" id="photoGrid">
+  <img src="/image/IMG_2037.jpeg" data-place="beijing" alt="Beijing" />
+  <img src="/assets/img/profile.jpg" data-place="sandiego" alt="San Diego" />
+  <img src="/image/your-photo-3.jpg" data-place="shanghai" alt="Shanghai" />
+  <img src="/image/your-photo-4.jpg" data-place="beijing" alt="Beijing street" />
 </div>
+
+<script>
+function filterPhotos() {
+  const selectedPlace = document.getElementById("placeFilter").value;
+  const photos = document.querySelectorAll("#photoGrid img");
+
+  photos.forEach(photo => {
+    if (selectedPlace === "all" || photo.dataset.place === selectedPlace) {
+      photo.style.display = "block";
+    } else {
+      photo.style.display = "none";
+    }
+  });
+}
+</script>
