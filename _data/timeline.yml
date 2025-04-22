@@ -1,27 +1,49 @@
-- title: AMAZING STUFF
-  from: 2019
+- title: Graduate Student, Library and Information Science, UIUC
+  from: 2024
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Enrolled in the MS/LIS program at the University of Illinois Urbana-Champaign, focusing on digital preservation, archives, and user-centered information services. Relevant coursework includes "Design Thinking for Information Professionals."
 
-- title: Student, Harvard CS
-  from: 2013
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Bachelor of Management, Archival Science, Shanghai Normal University
+  from: 2020
+  to: 2024
+  description: Completed a comprehensive program in Archival Science with coursework in electronic records management, web design for records entry, and blockchain in documentation. Received multiple honors, including first and third prizes for research and academic performance.
 
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Exchange Student, University of California, San Diego
+  from: 2023
+  to: 2023
+  description: Participated in an academic exchange program with UCSD, furthering international perspectives on information science.
+
+- title: Archives Management Assistant, Shanghai Xiangming Junior High School
+  from: 2023
+  to: 2023
+  description: Organized, encoded, and digitized student and school activity archives from 2021–2023. Assisted in retrieval services for archival reference.
+
+- title: Program Implementation Intern, Beijing UINO Technology Co.
+  from: 2023
+  to: 2023
+  description: Supported the construction of a 5G+ smart medical application for Zhongshan Hospital. Responsible for spatial mapping, digital twin object placement, and system roaming function adjustments.
+
+- title: Member, Red Archives Digital Narrative Project
+  from: 2021
+  to: 2022
+  description: Conducted research on integrating user-interactive narratives with red archive dissemination. Developed scripts and user surveys to evaluate public engagement and new media impact.
+
+- title: Program Assistant, International Center for Educational Innovation
+  from: 2022
+  to: 2022
+  description: Researched leadership concepts, theories, and development strategies. Focused on "integrated psychological theory" and "leader-member exchange theory" for applied leadership training materials.
+
+- title: Member, Red Archives Communication Research Project
+  from: 2022
+  to: 2022
+  description: Analyzed the public’s reception of red archives via digital media. Identified Bilibili as a major platform and proposed hybrid dissemination models based on user expectations and new media ecosystems.
+
+- title: Volunteer, Champaign Public Library
+  from: 2024
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Assist the Access Services department with shelving, clerical tasks, and fulfilling item requests for patrons.
 
+- title: Volunteer, 3rd Asian Chinese Film Festival
+  from: 2022
+  to: 2022
+  description: Organized and planned virtual activities for the film festival. Collaborated with team members to curate themes and explore artistic programming.
