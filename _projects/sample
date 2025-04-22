@@ -1,5 +1,7 @@
 ---
 title: IS 445 Homework 6
+permalink: /homework6/
+layout: page  # or use 'project' if your theme supports a custom layout
 image: /DSC03931.JPG
 description: Visualization and analysis done for Homework 6 using Vega-Lite.
 tags:
