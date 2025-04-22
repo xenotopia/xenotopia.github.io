@@ -1,9 +1,30 @@
 ---
-layout: default
-title: Blog
-weight: 2
+title: Photography
 permalink: /blog/
+layout: page
 ---
 
-{% include blog/search.html %}
-{% include blog/index.html %}
+<h1>📸 My Photography</h1>
+<p>A collection of moments I've captured.</p>
+
+<style>
+.photo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 20px;
+}
+.photo-grid img {
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+</style>
+
+<div class="photo-grid">
+  <img src="/image/IMG_2037.jpeg" alt="Cute dog" />
+  <img src="/assets/img/profile.jpg" alt="Portrait" />
+  <img src="/image/your-second-photo.jpg" alt="Example shot" />
+  <!-- Add more images here -->
+</div>
