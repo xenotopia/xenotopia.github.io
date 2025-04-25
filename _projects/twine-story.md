@@ -9,4 +9,4 @@ tools: [Twine, Jyupter Notebook, Storytelling]
 This is an interactive Twine story page.
 
 ### 🔗 Related Links
-- [Twine Story](https://xenotopia.github.io/twinestory.github.io/)
+- [Twine Story](https://xenotopia.github.io/twinestory.github.io/）
