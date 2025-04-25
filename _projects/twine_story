@@ -1,10 +1,8 @@
 ---
-title: "Twine Interactive Story"
-excerpt: "A story-based data experience highlighting food desert issues."
+name: "Twine Interactive Story"
+description: "A story-based data experience highlighting food desert issues."
 image: image/twine_report.png
-tags:
-  - Storytelling
-  - Interactive
-  - Data
+tools: [Twine, Jyupter Notebook, Storytelling]
+
 project_url: /projects/MiP4 Twine Story.html
 ---
