@@ -2,7 +2,7 @@
 name: IS 445 Homework 6
 permalink: /homework6/
 layout: page  
-image: _projects/IMG_5652.JPG
+image: /_projects/IMG_5652.JPG
 description: Visualization and analysis done for Homework 6 using Vega-Lite.
 tags:
   - Python
