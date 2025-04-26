@@ -1,9 +1,9 @@
 ---
-name: IS 445 Homework 6
+name: Vega lite sample
 permalink: /homework6/
 layout: page  
 image: /image/IMG_5652.JPG
-description: Visualization and analysis done for Homework 6 using Vega-Lite.
+description: Visualization and analysis done using Vega-Lite.
 tools: [Python, HTML, vega-lite]
 
 ---
