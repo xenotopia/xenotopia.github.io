@@ -3,12 +3,12 @@
   level: Expert
   color: secondary
 
-- name: Jyupter notebook
+- name: PowerBI, Tableu, Google Data Studio
   percentage: 90
   level: Expert
   color: danger
 
-- name: PowerBI
-  percentage: 90
+- name: JavaScript
+  percentage: 80
   level: Expert
   color: blue
