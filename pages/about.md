@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi My name is **{{ site.author.name }}**,<br>
-I'm a graduate student at the University of Illinois, Urbana-Champaign. I completed my undergraduate degree in Shanghai Normal University, majoring in Archival Science.
+I'm a graduate student at the University of Illinois, Urbana-Champaign. I completed my undergraduate degree in Shanghai Normal University, majoring in Archival Science.<br>
 [📄 Download My CV (PDF)](/assets/Jingjing Liang_CV.pdf)
 
 
