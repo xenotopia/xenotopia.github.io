@@ -5,11 +5,11 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title: "Hello, here's Jingjing Liang's personal website"
+title: "Jingjing Liang's personal website"
 description: >
-  I am Jingjing Liang, 
+  I am Jingjing Liang, <br>
   you can also call me Marie!
-baseurl: ""  # ← Set this to empty since your repo is named xenotopia.github.io
+baseurl: ""  
 repository: "xenotopia/xenotopia.github.io"
 open_new_tab: false
 
