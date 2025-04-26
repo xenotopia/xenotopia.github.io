@@ -1,5 +1,6 @@
 ---
 name: Vega Lite Example Project
+published: false
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/cars.png
 description: This is a "showcase" project that uses vega-lite for interactive viz!
