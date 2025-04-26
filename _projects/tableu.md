@@ -2,7 +2,7 @@
 name: US Food Desert Analysis
 layout: page
 description: Tableau-based interactive map
-image: image/twine_report.png
+image: image/tableu.png
 tools: [Tableu, Data Visualization]
 
 ---
