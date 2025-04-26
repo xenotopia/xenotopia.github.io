@@ -1,5 +1,9 @@
 ---
 name: UIUC Building Inventory Visualizations
+layout: page
+description: interactive visualizations based on the UIUC Building Inventory dataset
+image: image/huggingface.png
+tools: [Python, Streamlit]
 
 ---
 
@@ -13,7 +17,7 @@ It highlights building distributions across different agencies, construction yea
 
 ---
 
-## Project Overview
+## Overview
 
 - **Data Source**:  
   University of Illinois Urbana-Champaign Building Inventory Dataset.
@@ -31,8 +35,3 @@ It highlights building distributions across different agencies, construction yea
   - Hosted on Hugging Face Spaces
 
 ---
-
-## Purpose
-
-The goal of this project is to provide an intuitive and accessible way to explore campus infrastructure data.  
-It serves as a demonstration of lightweight
