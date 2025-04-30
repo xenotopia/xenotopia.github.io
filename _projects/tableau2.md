@@ -16,12 +16,11 @@ tools: [Tableu, Data Visualization]
 - **Visualization Tool**: Tableau Public
 - **Analysis**: 
 
-## Visualizations
 
 ### Visualization 1  
 ![Population Visualization](/image/population.png)
 
 ### Visualization 2  
-![Visualization 2](image/visual 2.png)
+![Visualization 2](image/visual_2.png)
 
 ---
