@@ -15,7 +15,13 @@ tools: [Tableu, Data Visualization]
 - **Data Source**: Illinois Action For Child 
 - **Visualization Tool**: Tableau Public
 - **Analysis**: 
-- ** Visualization 1**: image/population.png
-- ** Visualization 2**: image/visual 2.png
+
+## Visualizations
+
+### Visualization 1  
+![Population Visualization](/image/population.png)
+
+### Visualization 2  
+![Visualization 2](image/visual 2.png)
 
 ---
