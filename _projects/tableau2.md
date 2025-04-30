@@ -21,6 +21,9 @@ tools: [Tableu, Data Visualization]
 ![Population Visualization](/image/population.png)
 
 ### Visualization 2  
-![Visualization 2](image/visual_2.png)
+![Visualization 2](/image/visual_2.png)
+
+### Visualization 3  
+![Visualization 3](/image/visual_1.png)
 
 ---
